@@ -14,7 +14,11 @@ This repository contains **all source‑code examples demonstrated during my Cor
 │
 |── L4_arrays_strings/
 │
-└── L4_loops/
+|── L4_loops/
+│
+|── L5_nested_loops/
+│
+└── L6_methods/
 
 ```
 
