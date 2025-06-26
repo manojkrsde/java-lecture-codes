@@ -41,7 +41,7 @@ public class NestedLoopDemo {
 //            System.out.println(); // Move to next row
 //        }
 //
-//        System.out.println();
+        System.out.println();
 
         // -------------------------------
         // 3. Sum of All Elements in 2D Array
