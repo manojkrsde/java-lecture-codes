@@ -18,7 +18,9 @@ This repository contains **all source‑code examples demonstrated during my Cor
 │
 |── L5_nested_loops/
 │
-└── L6_methods/
+|── L6_methods/
+│
+└── L7_practice_questions/
 
 ```
 
